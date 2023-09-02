@@ -57,7 +57,7 @@ p {
 }
 
 
-@media screen and (max-width: 375px ) {
+@media screen and (max-width: 475px ) {
   body{
     background: hsl(220, 15%, 55%);
   }
